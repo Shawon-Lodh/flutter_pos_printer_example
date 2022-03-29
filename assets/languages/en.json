@@ -1,0 +1,23 @@
+{
+  "introduce": "It is Tobacco related App",
+  "status": "This app is in underdevelopment",
+
+  "settings": "Settings",
+  "english": "English",
+  "bangla": "বাংলা",
+  "language": "Language",
+  "changePassword": "Change Password",
+  "accessPermission": "Access Permission",
+
+  "accountStatus": "Account Status",
+  "accountUnderReview": "Under Review",
+  "accountRejected": "Rejected",
+  "accountIsUnderReview": "Your account is under review",
+  "accountIsUnderReviewDesc": "Your account is being reviewed by our administrators. Feel free to contact the helpline if you have any questions.",
+  "accountIsRejected": "Your account is Rejected",
+  "accountIsRejectedDesc": "Your account is rejected by the administrators. You can contact them for further queries.",
+  "callHelpline": "Call Helpline",
+  "howToUseThisApp": "HOW TO USE THIS APP",
+  "faq": "FAQ"
+
+}
